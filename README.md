@@ -12,3 +12,7 @@ https://linuxize.com/post/how-to-rename-local-and-remote-git-branch/
 
 * Various ML and DL Cheat Sheets:  
 https://www.kdnuggets.com/2017/09/essential-data-science-machine-learning-deep-learning-cheat-sheets.html
+
+* TMUX Cheatsheet:  
+https://linuxacademy.com/site-content/uploads/2016/08/tmux-3-1-1024x640.png?x96242  
+https://www.thehelpfulhacker.net/img/TmuxCheatsheet-0.1.png  
